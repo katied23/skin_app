@@ -19,3 +19,15 @@ drugstore alternatives are there to suit lower budgets.
 There are many steps this site can take for the future, mens skincare is just as important and woukd need
 to be added, different brands to suit different budgets, skincare brands sections and 
 beauty salons/skin clinics could adapt this application to include products they sell.
+
+----
+## User Stories (UX)
+### Wireframes
+- Mobile
+![Mobile Wireframe](assets/images/wireframes/Mobile_wireframe.png)
+
+- Tablet
+![Tablet Wireframe](assets/images/wireframes/Tablet_wireframe.png)
+
+- Desktop
+![Desktop Wireframe](assets/images/wireframes/Desktop_wireframe.png)
