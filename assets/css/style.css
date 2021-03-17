@@ -17,9 +17,15 @@ h1 {
 
 /*---NavBar---*/
 
+.navbar {
+    text-align: center;
+}
+
 .navbar-brand {
     font-family: "Lobster", sans-serif;
 }
+
+
 
 
 
@@ -31,11 +37,20 @@ h1 {
 }
 .intro-questions {
     list-style: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
 }
 
 .intro-question {
     font-weight: 600;
-    padding: 25px;
     font-size: 1.4em;
+    padding: 15px;
+    display: block;
 }
 
+.callout {
+    font-weight: 600;
+    font-size: 1.4em;
+    display: block;
+}
