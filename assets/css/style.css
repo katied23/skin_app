@@ -1,12 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 /*---General Styles---*/
 body {
     background-image:url(/assets/images/background_image.jpg);
     background-repeat: no repeat;
     background-size: cover;
+    font-family: "Oswald", sans-serif;
+}
+
+h1 {
+    font-family: "Lobster", sans-serif;
+
 }
 
 
-/*---NavBar---/*
+/*---NavBar---*/
+
+.navbar-brand {
+    font-family: "Lobster", sans-serif;
+}
+
 
 
 /*---Homepage Introduction---*/
+
+.introduction-container {
+    text-align: center;
+    padding-top: 20px;
+}
+.intro-questions {
+    list-style: none;
+}
+
+.intro-question {
+    font-weight: 600;
+    padding: 25px;
+    font-size: 1.4em;
+}
+
